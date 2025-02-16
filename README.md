@@ -3,6 +3,7 @@
 ### 概要
 
 - web 上で日付を表示する。
+- URL：https://simple-calendar-react.netlify.app/
 
 ### 機能要件
 
